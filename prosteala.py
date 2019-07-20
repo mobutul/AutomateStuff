@@ -16,4 +16,4 @@ class GoToGoogleTranslate(OpenBrowser):
         close_handler = CloseBrowser()
 
 my_obj = GoToGoogleTranslate("https://www.google.com")
-my_obj.TranslateFunction("let's go on a vacation Tatiana!")
+my_obj.TranslateFunction("let's go on a vacation Tatiana! just joking...")
